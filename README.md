@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on (no current project)
 - 📫 I'm on Instagram <https://www.instagram.com/severin_1525/>
 - ✉️ I'm on Discord called Sevi0015
+- 🇨🇭  I'm from Switzerland
 
 <!---
 Severinboegli/Severinboegli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
